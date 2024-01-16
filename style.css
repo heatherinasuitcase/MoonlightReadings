@@ -118,7 +118,7 @@ p {
 }
 
 #ibenit {
-    background-image: url("IvyBenit.jpg");
+    background-image: url("./Img/IvyBenit.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -126,28 +126,28 @@ p {
 }
 
 #nbaker {
-    background-image: url("NancyBaker.jpg");
+    background-image: url("./Img/NancyBaker.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #msmith {
-    background-image: url("MapleSmith.jpg");
+    background-image: url("./Img/MapleSmith.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #smason {
-    background-image: url("SkyMason.jpg");
+    background-image: url("./Img/SkyMason.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #dfrannard {
-    background-image: url("DaisyFrannard.jpg");
+    background-image: url("./Img/DaisyFrannard.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
